@@ -1,7 +1,7 @@
 ## If you want to use our tool you need follow these steps:
 #### Install ngrok from this link.
 <a href="https://dashboard.ngrok.com/get-started/setup">Click</a>
-### Than you need setup the ngrok. (Use Googlr or YouTube)
+### Than you need setup the ngrok. (Use Google or YouTube)
 ### Than use theis command :
 ```bash
 ngrok tcp 9999 
