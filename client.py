@@ -3,7 +3,7 @@ import random
 import socket
 import time,webbrowser
 from threading import Thread
-from tqdm import tqdm
+#from tqdm import tqdm
 one = '''
               AAA                                                                                                                tttt                       CCCCCCCCCCCCC                                                       kkkkkkkk                                                     
               A:::A                                                                                                            ttt:::t                    CCC::::::::::::C                                                       k::::::k                                                     
